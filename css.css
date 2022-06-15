@@ -1,0 +1,256 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+
+.icon {
+    height: 90px;
+    width: 200px;
+   
+}
+.bc {
+    height: 100%;
+    width: 100v ;
+    position: relative;
+    padding: 0% 0%;
+    display: flex;
+    align-items: center;
+    margin-right:5px ;
+    justify-content: space-around;
+}
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+nav {
+width: 100% ;
+position: absolute;
+top: 0%;
+left: 0%;
+padding: 0 0.6em;
+display: flex;
+align-items: center;
+justify-content:space-between;
+color:#ababab;
+
+}
+nav ul li  {
+list-style: none;
+display: inline-block;
+margin-left: 25px;
+justify-content: flex;
+margin-right: 5px;
+}
+h1,h2,h3,h4{
+margin: 1em 0;
+font-family: Work Sans,Arial,sans-serif;
+font-weight: 300;
+letter-spacing: -.3px;
+}
+.center {
+    font-size: 2.125rem;
+    color: #00b39b;
+}
+.center {
+    text-align: center;
+}
+
+.col1, .col2{
+    box-sizing: inherit;
+    width: 50%;
+    padding-left:  50px;
+    padding-right: 50px;
+}
+[class*=col] {
+    float: left;
+    min-height: 1px;
+    padding: 10px; 
+}
+.section__inner {
+    zoom: 1;
+    max-width: 1015px;
+    padding: 0 20px;
+    margin: 0 auto;
+    position: relative;
+}
+.group{
+    height: 200px;
+    justify-content: space-around;
+}
+
+.col1{
+    height: 100px;
+    width: 400px;
+    text-align: justify;
+    margin-left: 250px ;
+    color: #747474;
+    font-size: 20px;
+    font-family:Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.col2{
+    height: 100px;
+    width: 400px;
+    text-align: justify;
+    margin-right: 200px;
+    margin-left: 250px;
+    color: #747474;
+    font-family:Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+}
+.three{
+    justify-content: space-evenly;
+    padding-left:  250px;
+    display: flex;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.green{
+    background: #00b39b;
+    color: #fff;
+    text-shadow: none;
+    width: 330px;
+   padding-left: 25px;
+   padding-top: 20px;
+   border-radius: 10px;
+
+}
+.green h1{
+ margin-top: 0px;
+ margin-bottom: 0px;
+
+}
+.green h2{
+    margin-top: 0px;
+}
+.country{
+width: 100%;
+background: transparent;
+border: 0;
+border-radius: 0;
+padding: 0 2em 0 0;
+-webkit-appearance: none;
+outline: 0;
+text-transform: none;
+text-decoration: underline;
+cursor: pointer;
+color: white;
+font-size: 20px;
+}
+.blue{
+    background-color:#3d83df ;
+    color: #fff;
+    text-shadow: none;
+    width: 330px;
+   padding-left: 25px;
+   padding-top: 20px;
+   border-radius: 10px;
+
+}
+.blue h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+   
+}
+.blue h2{
+       margin-top: 0px;
+}
+.blue2{
+    background-color:#1b2734 ;
+    color: #fff;
+    text-shadow: none;
+    width: 330px;
+   padding-left: 25px;
+   padding-top: 20px;
+   border-radius: 10px;
+
+}
+.blue2 h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+   
+}
+.blue2 h2{
+       margin-top: 0px;
+}
+.complexe{
+    padding-left:  250px;
+    display: flex;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 70px;
+    align-items: center;
+}
+.complexe h1{
+    font-size: 2.125rem;
+    color: #00b39b;
+}
+.brands__logos {
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-size: 0px;
+    list-style: none;
+   display: flex;
+   margin-left: 280px;
+    
+
+}
+ol, ul {
+        margin: 0;
+        padding: 0;
+    }
+body {
+    font-weight: 400;
+        font-family: Roboto,Arial,sans-serif;
+        color: #747474;
+        padding-top: 70px;
+        -webkit-font-smoothing: antialiased;
+}
+.two{
+  background-color: #00b39b;
+   
+}
+
+.slick-track{
+    max-width: 80vw;
+    display: flex;
+    flex-wrap: wrap;
+    height: auto;
+    justify-content: space-evenly;
+
+}
+
+
+.two h1{
+    font-size: 2.125rem;
+    color: #00b39b;
+}
+.ville1{
+margin: 15px;
+
+}
+.ville2{
+    margin: 15px;
+    }
+.ville3{
+        margin: 15px;
+}
+.ville4{
+    margin: 15px;
+}
+.ville5{
+    margin: 15px;
+}
+.ville6{
+    margin: 15px;
+ }
+    
+    
+    
+        
+    
+
+
